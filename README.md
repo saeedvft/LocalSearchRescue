@@ -1,9 +1,10 @@
+
 # Local Search Hostage Rescue
+
+![Screencast from 2025-07-05 18-08-58](https://github.com/user-attachments/assets/fe529240-46cc-44c8-9158-4b0e90fd4396)
 
 ## Overview
 The **Hostage Rescue Game** is a 2D game developed using the **Pygame** library in Python. In this game, an agent navigates a grid-based environment to rescue a hostage while avoiding randomly placed obstacles. The game employs local search algorithms to guide the agent's movements toward the hostage, incorporating strategies to avoid obstacles and escape loops or dead-ends. The game features a graphical interface with visual representations of the agent, hostage, and obstacles, and includes victory animations and restart functionality.
-![Screencast from 2025-07-05 18-08-58](https://github.com/user-attachments/assets/fe529240-46cc-44c8-9158-4b0e90fd4396)
-
 
 ## Features
 1. **Game Initialization**:
